@@ -33,3 +33,4 @@ def game():
 
 # Call the game function
 game()
+# NOTE: All code is written by me , except comments .
